@@ -1,0 +1,2 @@
+# CalculatingPercentage-Expanse
+Bring together cash and card expenses and calculate percentages on categories  We have a list of expenses (rent, food, utilities, leisure, savings) for which card payments were made. We have discovered that some transactions are missing, as they were done in cash. Prepare a workflow to bring all the expenses in a single file and calculate the percentages for each expense made.  Input files:      CardPayments (.xlsx)     CashPayments (.xlsx)
